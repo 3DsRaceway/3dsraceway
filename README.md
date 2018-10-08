@@ -1,5 +1,18 @@
 # 3D's Raceway
 
+3D's Raceway is a local, private-owned, remote-control raceway in the backyard of small-town America.
+
+Patrons can enjoy a number of fun activity areas consisting of a race oval, street straight, gravel straight, as well as a crawler obstacle course.
+
+This code-base serves as the primary code for the raceway's web presence at http://3dsraceway.com .
+
+```
+__
+.-'--`-.__
+'-O`---O--'
+```
+
+## Jekyll info:
 Based on "Creative Theme for Jekyll"
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
